@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robos/static/css/main.1fd99918.chunk.css",
+    "main.js": "/robos/static/js/main.445d33ab.chunk.js",
+    "main.js.map": "/robos/static/js/main.445d33ab.chunk.js.map",
+    "runtime-main.js": "/robos/static/js/runtime-main.cdeb3c5b.js",
+    "runtime-main.js.map": "/robos/static/js/runtime-main.cdeb3c5b.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robos/static/css/2.31461e4f.chunk.css",
+    "static/js/2.a6c4d654.chunk.js": "/robos/static/js/2.a6c4d654.chunk.js",
+    "static/js/2.a6c4d654.chunk.js.map": "/robos/static/js/2.a6c4d654.chunk.js.map",
+    "index.html": "/robos/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robos/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.1fd99918.chunk.css.map": "/robos/static/css/main.1fd99918.chunk.css.map",
+    "static/js/2.a6c4d654.chunk.js.LICENSE.txt": "/robos/static/js/2.a6c4d654.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robos/static/media/SuperMario256.4f725b59.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdeb3c5b.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.a6c4d654.chunk.js",
+    "static/css/main.1fd99918.chunk.css",
+    "static/js/main.445d33ab.chunk.js"
+  ]
+}
